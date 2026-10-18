@@ -1,0 +1,47 @@
+\multicolumn{10}{c}{\emph{Psychological and subjective wellbeing}} \\
+Evaluative wellbeing & $\alpha = 0.90$ &    -3.237 &     1.482 & \includegraphics[scale=.08]{../results/hist_evaluativewellbeing.pdf} &     0.924 &     0.523 & 2--11 & 18,234 & 75,034 \\
+Hedonic wellbeing & $\alpha = 0.81$ &    -5.577 &     0.797 & \includegraphics[scale=.08]{../results/hist_hedonicwellbeing.pdf} &     0.934 &     0.554 & 1--11 & 20,337 & 85,374 \\
+Meaningfulness of life &  &    -3.546 &     1.166 & \includegraphics[scale=.08]{../results/hist_meaningfulness.pdf} &     0.925 &     0.539 & 6--11 & 13,459 & 41,044 \\
+Depression \textit{(rev.)} & $\alpha = 0.80$ &    -3.388 &     0.760 & \includegraphics[scale=.08]{../results/hist_cesd.pdf} &     0.889 &     0.593 & 1--11 & 20,327 & 85,529 \\
+Loneliness \textit{(rev.)} & $\alpha = 0.83$ &    -3.149 &     0.758 & \includegraphics[scale=.08]{../results/hist_loneliness.pdf} &     0.921 &     0.549 & 2--11 & 18,216 & 74,951 \\
+Anxiety \textit{(rev.)} &  &    -2.915 &     0.873 & \includegraphics[scale=.08]{../results/hist_anxiety.pdf} &     0.855 &     0.639 & 6--11 & 13,505 & 41,283 \\
+\multicolumn{10}{c}{\emph{Summary measures of health}} \\
+Self-rated health &  &    -1.965 &     1.627 & \includegraphics[scale=.08]{../results/hist_health.pdf} &     0.907 &     0.544 & 1, 2, 4--11 & 20,117 & 78,110 \\
+Allostatic load \textit{(rev.)} &  &    -2.429 &     1.387 & \includegraphics[scale=.08]{../results/hist_allostatic.pdf} &     0.958 &     0.382 & 2, 4, 6, 8, 9, 11 & 9,965 & 18,961 \\
+Frailty \textit{(rev.)} &  &    -5.121 &     1.129 & \includegraphics[scale=.08]{../results/hist_frailty.pdf} &     0.894 &     0.392 & 1--11 & 20,389 & 85,877 \\
+\multicolumn{10}{c}{\emph{Health behaviours}} \\
+Physical activity &  &    -1.530 &     1.413 & \includegraphics[scale=.08]{../results/hist_physical_activity.pdf} &     0.862 &     0.606 & 1--11 & 20,388 & 85,865 \\
+Smoking \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_smoking.pdf} &     0.334 &     0.135 & 1--11 & 20,386 & 85,763 \\
+Drinking alcohol \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_drinking.pdf} &     0.365 &     0.216 & 1--11 & 20,344 & 84,820 \\
+\multicolumn{10}{c}{\emph{Cognitive function}} \\
+Executive function &  &    -2.898 &     6.384 & \includegraphics[scale=.08]{../results/hist_fluency.pdf} &     0.876 &     0.547 & 1--5, 7--11 & 20,170 & 77,328 \\
+Memory &  &    -2.797 &     2.589 & \includegraphics[scale=.08]{../results/hist_memory.pdf} &     0.875 &     0.559 & 1--11 & 20,308 & 85,516 \\
+Processing speed &  &    -3.284 &     7.871 & \includegraphics[scale=.08]{../results/hist_cancellation.pdf} &     0.901 &     0.513 & 1--5 & 14,856 & 41,485 \\
+\multicolumn{10}{c}{\emph{Physical health and function}} \\
+Gait speed &  &    -2.771 &     5.609 & \includegraphics[scale=.08]{../results/hist_gtspd_av.pdf} &     0.894 &     0.589 & 1--11 & 14,429 & 54,303 \\
+Grip strength &  &    -2.597 &     3.970 & \includegraphics[scale=.08]{../results/hist_gripstrength.pdf} &     0.965 &     0.328 & 2, 4, 6, 8, 9, 11 & 13,605 & 30,795 \\
+Limiting longstanding illness \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_lli.pdf} &     0.405 &     0.293 & 2--11 & 18,269 & 75,435 \\
+Pain \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_pain.pdf} &     0.375 &     0.293 & 1--11 & 20,389 & 85,861 \\
+Mobility limitations \textit{(rev.)} & $\alpha = 0.87$ &    -3.140 &     0.740 & \includegraphics[scale=.08]{../results/hist_mobility.pdf} &     0.912 &     0.453 & 1--11 & 20,388 & 85,869 \\
+ADL difficulties \textit{(rev.)} &  &    -5.447 &     0.381 & \includegraphics[scale=.08]{../results/hist_adl.pdf} &     0.846 &     0.504 & 1--11 & 20,388 & 85,871 \\
+IADL difficulties \textit{(rev.)} &  &    -6.301 &     0.305 & \includegraphics[scale=.08]{../results/hist_iadl.pdf} &     0.715 &     0.448 & 1--11 & 20,388 & 85,871 \\
+Good eyesight &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_eyesight.pdf} &     0.279 &     0.235 & 1--11 & 20,389 & 85,864 \\
+Good hearing &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_hearing.pdf} &     0.337 &     0.261 & 1--11 & 20,388 & 85,864 \\
+\multicolumn{10}{c}{\emph{Cardiovascular biomarkers}} \\
+High blood pressure: systolic \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_hisys.pdf} &     0.408 &     0.274 & 2, 4, 6, 8, 9, 11 & 10,393 & 20,494 \\
+High blood pressure: diastolic \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_hidia.pdf} &     0.237 &     0.163 & 2, 4, 6, 8, 9, 11 & 10,393 & 20,494 \\
+\multicolumn{10}{c}{\emph{Inflammation biomarkers}} \\
+C-reactive protein \textit{(rev.)} &  &    -2.102 &     2.736 & \includegraphics[scale=.08]{../results/hist_lhscrp.pdf} &     0.941 &     0.445 & 2, 4, 6, 8, 9, 11 & 10,907 & 22,061 \\
+Fibrinogen \textit{(rev.)} &  &   -10.399 &     3.706 & \includegraphics[scale=.08]{../results/hist_fibrinogen.pdf} &     0.929 &     0.499 & 2, 4, 6, 8, 9, 11 & 10,631 & 20,889 \\
+\multicolumn{10}{c}{\emph{Metabolic biomarkers}} \\
+Glycated hemoglobin \textit{(rev.)} &  &   -11.966 &     3.502 & \includegraphics[scale=.08]{../results/hist_hba1c.pdf} &     0.966 &     0.375 & 2, 4, 6, 8, 9, 11 & 10,777 & 21,618 \\
+HDL/total cholesterol ratio &  &    -2.363 &     7.050 & \includegraphics[scale=.08]{../results/hist_hdlchol.pdf} &     0.912 &     0.467 & 2, 4, 6, 8, 9, 11 & 10,904 & 22,048 \\
+Triglycerides \textit{(rev.)} &  &   -16.850 &     1.328 & \includegraphics[scale=.08]{../results/hist_trig.pdf} &     0.927 &     0.462 & 2, 4, 6, 8, 9, 11 & 10,906 & 22,058 \\
+High fasting blood glucose \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_hifglu.pdf} &     0.163 &     0.076 & 2, 4, 6, 8, 9, 11 & 7,726 & 12,840 \\
+\multicolumn{10}{c}{\emph{Body fat biomarkers}} \\
+BMI obesity \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_obese.pdf} &     0.435 &     0.165 & 2, 4, 6, 8, 9, 11 & 10,602 & 21,191 \\
+Central obesity \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_centrallyobese.pdf} &     0.476 &     0.183 & 2, 4, 6 & 8,868 & 14,847 \\
+\multicolumn{10}{c}{\emph{Lung function biomarkers}} \\
+Low forced expiratory volume \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_htfev_botq.pdf} &     0.402 &     0.200 & 2, 4, 6, 11 & 9,985 & 16,705 \\
+Low forced vital capacity \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_htfvc_botq.pdf} &     0.405 &     0.188 & 2, 4, 6, 11 & 9,986 & 16,706 \\
+Low peak expiratory flow \textit{(rev.)} &  &     0.000 &     1.000 & \includegraphics[scale=.08]{../results/hist_htpef_botq.pdf} &     0.412 &     0.175 & 2, 6, 11 & 8,815 & 11,808 \\

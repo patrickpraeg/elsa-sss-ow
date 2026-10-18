@@ -1,0 +1,4 @@
+Full sample &       23,258 &      105,504 \\
+Excluding those with missing demographic variables &       23,157 &      105,402 \\
+Additionally excluding those with missing income or wealth &       22,861 &      102,681 \\
+Additionally excluding those with missing subjective socioeconomic status &       20,389 &       85,879 \\
