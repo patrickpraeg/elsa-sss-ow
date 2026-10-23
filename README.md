@@ -1,6 +1,6 @@
 # Replication package
 
-Subjective Social Status and Health and Wellbeing in Later Life: An Outcome-Wide Fixed-Effects Analysis of the English Longitudinal Study of Ageing
+Subjective Socioeconomic Status and Health and Wellbeing in Later Life: An Outcome-Wide Fixed-Effects Analysis of the English Longitudinal Study of Ageing
 
 Patrick Präg, Asri Maharani, Lindsay Richards
 
